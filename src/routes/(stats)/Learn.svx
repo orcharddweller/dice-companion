@@ -1,0 +1,17 @@
+>
+Every time you click to roll,  
+I roll two dice in secret.  
+If advantage is turned on,  
+The higher of the two is shown,  
+If disadvantage, the lower one.  
+>  
+Otherwise, its the first die.  
+>  
+See how the url changes?  
+Its your choices that affect its toll.  
+Keep it as a memory.  
+>
+Two dice with the same result,  
+One succeeds, the other fails.  
+Was it the random bonus,  
+Or was it a programmer's mistake?  
